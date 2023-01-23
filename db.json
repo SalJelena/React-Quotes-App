@@ -1,0 +1,17 @@
+{
+    "quotes":[
+        {
+            "id": 1,
+            "text": "Citat broj 1",
+            "autor": "Autor"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "Jeja",
+            "email": "jeja@gmail.com",
+            "pass": "jeja123"
+        }
+    ]
+}
